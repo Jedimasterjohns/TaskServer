@@ -19,4 +19,6 @@ How to RECEIVE data from this microservice for Python applications:
 2. call this function in the portion of the app where you want to load data
 
 
-UML sequence diagram link: https://drive.google.com/file/d/1TOHqvWxcJsuz5kM8uS62nrVQfGqOf4sm/view?usp=sharing
+UML sequence diagram link -
+
+![UML Sequence Diagram](/assets/images/UML.png)
